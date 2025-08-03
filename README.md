@@ -16,3 +16,8 @@ This challenge helps to:
 1. **Two Sum** – [LeetCode #1](https://leetcode.com/problems/two-sum/)  
 2. **Remove Duplicates from Sorted Array** – [LeetCode #26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)  
 3. **Maximum Subarray** – [LeetCode #53](https://leetcode.com/problems/maximum-subarray/)  
+
+### **Day 2**
+1. **Best Time to Buy and Sell Stock** – [LeetCode #121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)  
+2. **Valid Palindrome** – [LeetCode #125](https://leetcode.com/problems/valid-palindrome/)  
+3. **Product of Array Except Self** – [LeetCode #238](https://leetcode.com/problems/product-of-array-except-self/)  
