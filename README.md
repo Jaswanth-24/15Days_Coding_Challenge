@@ -26,3 +26,8 @@ This challenge helps to:
 1. **Find the Index of the First Occurrence in a String** – [LeetCode #28](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)  
 2. **Group Anagrams** – [LeetCode #49](https://leetcode.com/problems/group-anagrams/)  
 3. **Valid Anagram** – [LeetCode #242](https://leetcode.com/problems/valid-anagram/)  
+
+### **Day 4**
+1. **Longest Palindromic Substring** – [LeetCode #5](https://leetcode.com/problems/longest-palindromic-substring/)  
+2. **Valid Parentheses** – [LeetCode #20](https://leetcode.com/problems/valid-parentheses/)  
+3. **Subarray Sum Equals K** – [LeetCode #560](https://leetcode.com/problems/subarray-sum-equals-k/)  
